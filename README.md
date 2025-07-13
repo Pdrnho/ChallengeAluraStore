@@ -12,10 +12,6 @@ Este projeto tem como objetivo analisar dados de quatro lojas da **Alura Store**
   - Análise exploratória com gráficos
   - Geração de insights e recomendação final
 - `README.md` – Documento explicativo do projeto
-- `/imagens/` – Pasta com os gráficos gerados:
-  - `faturamento_total.png`  
-  - `avaliacao_lojas.png`  
-  - `categorias_produtos.png`
 
 ---
 
